@@ -42,6 +42,7 @@ class App extends Component {
           />
         </Section >
         <Section title="Statistics:">
+          
 
         {totalFeedback?(<Statistics
           good={good}
